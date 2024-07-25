@@ -1,0 +1,124 @@
+
+
+.principal-section {
+	display: flex;
+	margin-top: -110px;
+	scale: 0.8;
+}
+
+
+.linhas-central-img {
+	display: table;
+	width: 600px;
+	margin-top: 300px;
+	margin-left: 350px;;
+}
+
+.gestao-patio-botao {
+	margin-top: -393px;
+	margin-left: 390px;
+
+	
+}
+.gestao-patio-botao img{
+	transition: all 0.2s ease-in;
+	width: 495px;
+
+	
+}
+.gestao-patio-botao img:hover {
+	scale:1.1;
+}
+
+
+
+
+.wms-wis-botao {
+	margin-top: -365px;
+	margin-left: 90px;
+}
+.wms-wis-botao img {
+	width: 300px;
+	transition: all 0.2s ease-in;
+}
+.wms-wis-botao img:hover {
+	scale: 1.1;
+}
+
+
+.api-botao {
+margin-top: 40px;	
+margin-left: 202px;
+}
+.api-botao img{
+	width: 300px;
+	transition: all 0.2s ease-in;
+}
+.api-botao img:hover {
+	scale:1.1;
+}
+
+
+.perifericos-botao{
+	margin-top: -170px;
+	margin-left: 660px;
+}
+.perifericos-botao img{
+	width: 300px;
+	transition: all 0.2s ease-in;
+}
+.perifericos-botao img:hover {
+	scale: 1.1;
+}
+
+
+.ronda-botao {
+	margin-left: 895px;
+	margin-top: -433px;
+}
+.ronda-botao img{
+	width: 300px;
+	transition: all 0.2s ease-in;
+  cursor: pointer;
+}
+.ronda-botao img:hover {
+	scale: 1.1;
+}
+
+
+.wms-senior-botao {
+	margin-left: 335px;
+	margin-top: -560px;
+}
+.wms-senior-botao img{
+	width: 300px;
+	transition: all 0.2s ease-in;
+  cursor: pointer;
+}
+.wms-senior-botao img:hover {
+	scale: 1.1;
+}
+
+
+.erp-botao {
+	margin-left: 825px;
+	margin-top: -190px;
+}
+.erp-botao img{
+	width: 300px;
+	transition: all 0.2s ease-in;
+  cursor: pointer;
+}
+.erp-botao img:hover {
+	scale: 1.1;
+}
+
+
+
+
+
+.item {
+  cursor: pointer;
+  position: relative;
+}
+
