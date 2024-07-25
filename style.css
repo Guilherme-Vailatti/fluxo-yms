@@ -135,18 +135,15 @@
 .gestao-patio-botao {
 	margin-top: -393px;
 	margin-left: 390px;
-
-	
 }
+
 .gestao-patio-botao img{
 	transition: all 0.2s ease-in;
 	width: 495px;
 
 	
 }
-.gestao-patio-botao img:hover {
-	scale:1.1;
-}
+
 
 
 
